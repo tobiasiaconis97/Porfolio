@@ -1,0 +1,1 @@
+Portfolio Miami Dark con botones de proyectos. Al pasar el mouse por cada imagen aparecen Ver detalles y GitHub. Los botones GitHub apuntan temporalmente al perfil general porque no se proporcionaron URLs individuales; reemplazar href por cada demo o repositorio cuando estén disponibles. En dispositivos táctiles los botones se muestran sin hover.
