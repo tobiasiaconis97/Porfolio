@@ -1,0 +1,10 @@
+PORTFOLIO CON MÚSICA
+
+1. Copiá tu canción a esta misma carpeta y renombrala exactamente musica.mp3.
+2. Abrí index.html.
+3. Usá el reproductor flotante de la esquina inferior derecha.
+4. El sonido comienza solo cuando el visitante toca Reproducir.
+5. Para publicar, subí también musica.mp3, musica.css y musica.js.
+
+Se conservan las páginas de detalles y el diseño del portfolio.
+La música no está incluida: la agregás vos.
