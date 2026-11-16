@@ -1,0 +1,7 @@
+PORTFOLIO MIAMI 80s
+
+Abrí index.html. Conservá los archivos juntos en una misma carpeta.
+Para activar música, agregá un archivo llamado musica.mp3 en esta carpeta.
+El sonido se inicia al pulsar el reproductor (los navegadores bloquean el autoplay con audio).
+Si tenés una foto llamada Tobias Nicolas.jpeg, colocala también en esta carpeta.
+Todos los proyectos y las páginas de detalle usan el nuevo estilo mediante styles.css.
