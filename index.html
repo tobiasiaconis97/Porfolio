@@ -212,13 +212,13 @@
                             target="_blank">GitHub ↗</a><a href="https://www.linkedin.com/in/tobias-iaconis-097bb0256/"
                             rel="noopener noreferrer" target="_blank">LinkedIn ↗</a></div>
                 </div>
-                <form id="contact-form"><label for="name">Tu nombre</label><input id="name" name="name"
+                <form id="contact-form"><div class="form-status" id="form-status" role="status" aria-live="polite" style="margin-bottom:14px"></div><label for="name">Tu nombre</label><input id="name" name="name"
                         placeholder="¿Cómo te llamás?" required="" /><label for="email">Tu email</label><input
                         id="email" name="email" placeholder="nombre@correo.com" required="" type="email" /><label
                         for="subject">Asunto</label><input id="subject" name="subject"
                         placeholder="¿De qué querés hablar?" required="" /><label for="message">Mensaje</label><textarea
                         id="message" name="message" placeholder="Contame tu idea..." required=""
-                        rows="5"></textarea><button class="btn primary" type="submit">Preparar email ↗</button><small>Se
+                        rows="5"></textarea><button class="btn primary" type="submit">Enviar mensaje ↗</button><small>Se
                         abrirá tu aplicación de correo con el mensaje preparado.</small></form>
             </div>
         </section>
@@ -227,6 +227,8 @@
         <div class="wrap foot"><span>Tobias<span class="accent">.</span> © <span id="year"></span></span><span>Hecho con
                 HTML, CSS y JavaScript</span><a href="#inicio">Volver arriba ↑</a></div>
     </footer>
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+    <script src="emailjs-config.js"></script>
     <script src="script.js"></script>
     <script defer="" src="musica.js"></script>
 </body>
